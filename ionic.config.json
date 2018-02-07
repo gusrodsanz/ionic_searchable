@@ -1,0 +1,8 @@
+{
+  "name": "searchable",
+  "app_id": "c91e7ab7",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
